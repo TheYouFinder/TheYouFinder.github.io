@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
     <title>TheYouFinder</title>
     <meta name="generator" content="Jekyll v3.10.0" />
     <meta property="og:title" content="TheYouFinder" />
@@ -19,7 +18,6 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebSite","headline":"TheYouFinder","name":"TheYouFinder","url":"https://theyoufinder.github.io/"}
     </script>
-    <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=5b46ff5c62af4723e2764f07c3261cf696391545">
   </head>
@@ -28,7 +26,6 @@
       
       <h1><a href="https://theyoufinder.github.io/">TheYouFinder</a></h1>
 
-      <p>&lt;!DOCTYPE html&gt;</p>
       <html lang="en">
       <head>
           <meta charset="UTF-8" />
